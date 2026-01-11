@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ConsoleProjectNumberBaseBall.Control;
+using ConsoleProjectNumberBaseBall.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +12,11 @@ namespace ConsoleProjectNumberBaseBall
     {
         static void Main(string[] args)
         {
+            GenerateNumber GN = new GenerateNumber();
+            GN.GetAnswerNumber();
+
+            InputNumber IN = new InputNumber();
+            IN.GetUserNum();
         }
     }
 }

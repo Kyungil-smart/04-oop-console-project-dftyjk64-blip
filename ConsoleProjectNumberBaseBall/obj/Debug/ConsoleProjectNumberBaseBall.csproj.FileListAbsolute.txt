@@ -1,0 +1,7 @@
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\bin\Debug\ConsoleProjectNumberBaseBall.exe.config
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\bin\Debug\ConsoleProjectNumberBaseBall.exe
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\bin\Debug\ConsoleProjectNumberBaseBall.pdb
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\obj\Debug\ConsoleProjectNumberBaseBall.csproj.AssemblyReference.cache
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\obj\Debug\ConsoleProjectNumberBaseBall.csproj.CoreCompileInputs.cache
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\obj\Debug\ConsoleProjectNumberBaseBall.exe
+C:\Users\최동훈\OneDrive\문서\GitHub\04-oop-console-project-dftyjk64-blip\ConsoleProjectNumberBaseBall\obj\Debug\ConsoleProjectNumberBaseBall.pdb
