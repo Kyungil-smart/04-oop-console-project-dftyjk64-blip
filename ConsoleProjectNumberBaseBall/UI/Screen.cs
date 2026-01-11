@@ -3,13 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace ConsoleProjectNumberBaseBall
+// 화면을 그려주는 클래스
+namespace ConsoleProjectNumberBaseBall.UI
 {
-    public class Program
+    public class Screen
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
