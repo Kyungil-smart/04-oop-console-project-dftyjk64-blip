@@ -33,18 +33,27 @@ namespace ConsoleProjectNumberBaseBall.Core
                         {
                             ball++;                        // 위치는 다르지만 숫자가 있다면 볼
                         }
-                    }                
+                    }
                 }
             }
             if (strike == 0 && ball == 0)                 // 스트라이크와 볼이 0일때 다음 로직 수행
             {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("아웃!");               // 아웃 문구 출력
+                Console.ResetColor();
+                Console.WriteLine("--------------------------");
             }
-            else 
+            else
             {
-                Console.WriteLine($"{strike} 스트라이크 {ball} 볼"); // 아웃이 아니면 스트라이크와 볼의 개수 출력
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.Write($"{strike} 스트라이크\t");    // 아웃이 아니면 스트라이크와 볼의 개수 출력
+                Console.ResetColor();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.Write($"{ball} 볼\n");
+                Console.ResetColor();
+                Console.WriteLine("--------------------------");
             }
-                return new int[] { strike, ball };
+            return new int[] { strike, ball };
         }
     }
 }

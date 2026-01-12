@@ -17,12 +17,18 @@ namespace ConsoleProjectNumberBaseBall.Control
 
             while (true)                  // while 안이 true 면 반복
             {
-                Console.WriteLine("4자리 숫자를 입력 해주세요");
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("4자리 숫자를 입력 해주세요\n");
+                Console.ResetColor();
+
                 bool userNum = true;
                 string input = Console.ReadLine();      // ReadLine으로 입력받고
                 if (input.Length != 4)                  // 4자리 string인지 입력인지 확인 
                 {
-                    Console.WriteLine("다시 입력해주세요"); // 입력한 값이 4자리 string 입력이 아닐 시 안내문
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("다시 입력해주세요\n"); // 입력한 값이 4자리 string 입력이 아닐 시 안내문
+                    Console.ResetColor();
+                    Console.WriteLine("--------------------------");
                     continue;
                 }
 
@@ -30,7 +36,10 @@ namespace ConsoleProjectNumberBaseBall.Control
                 {
                     if (int.TryParse(input[i].ToString(), out playerNum[i]) == false) // TryParse로 char를 int로 변경
                     {
-                        Console.WriteLine("숫자만 입력하세요.");              // 숫자 외 입력시 안내문
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("숫자만 입력하세요.\n");              // 숫자 외 입력시 안내문
+                        Console.ResetColor();
+                        Console.WriteLine("--------------------------");
                         userNum = false;                                      // 입력한 값이 숫자가 아닐 시 false 반환
                         break;                                                // false 일시 반복문 탈출 다시 숫자 입력부터
                     }
@@ -50,7 +59,9 @@ namespace ConsoleProjectNumberBaseBall.Control
                         }
                         if (userNum == false)                                    // 숫자가 중복일때 아래 로직 수행
                         {
+                            Console.ForegroundColor = ConsoleColor.Red;
                             Console.WriteLine("중복된 숫자가 있습니다");         // 중복된 숫자 알림 안내문
+                            Console.ResetColor();
                             break;                                               // break로 반복 탈출
                         }
                     }
