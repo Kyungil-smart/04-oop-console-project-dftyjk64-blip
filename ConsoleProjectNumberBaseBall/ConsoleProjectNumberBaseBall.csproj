@@ -49,7 +49,9 @@
     <Compile Include="Core\Judgment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UI\Screen.cs" />
+    <Compile Include="UI\EndingScene.cs" />
+    <Compile Include="UI\Scene.cs" />
+    <Compile Include="UI\TitleScene.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
