@@ -14,6 +14,37 @@ namespace ConsoleProjectNumberBaseBall.Core
 {
     public class Judgment
     {
-    
+        public int[] CheckingScore(int[] answer, int[] player)
+        {
+            int strike = 0;
+            int ball = 0;
+
+            for (int i = 0; i < answer.Length; i++)        // 
+            {
+                for (int j = 0; j < player.Length; j++)    // 
+                {
+                    if (answer[i] == player[j])            // 배열안의 숫자 비교 숫자가 같으면 아래 로직 수행
+                    {
+                        if (i == j)                        // 인덱스 값을 비교
+                        {
+                            strike++;                      // 같은 위치의 인덱스 숫자가 서로 같으면 스트라이크
+                        }
+                        else
+                        {
+                            ball++;                        // 위치는 다르지만 숫자가 있다면 볼
+                        }
+                    }                
+                }
+            }
+            if (strike == 0 && ball == 0)                 // 스트라이크와 볼이 0일때 다음 로직 수행
+            {
+                Console.WriteLine("아웃!");               // 아웃 문구 출력
+            }
+            else 
+            {
+                Console.WriteLine($"{strike} 스트라이크 {ball} 볼"); // 아웃이 아니면 스트라이크와 볼의 개수 출력
+            }
+                return new int[] { strike, ball };
+        }
     }
 }

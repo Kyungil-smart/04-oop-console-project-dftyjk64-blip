@@ -8,5 +8,6 @@ namespace ConsoleProjectNumberBaseBall.Control
 {
     public class GameManager
     {
+
     }
 }

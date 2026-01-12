@@ -12,11 +12,17 @@ namespace ConsoleProjectNumberBaseBall
     {
         static void Main(string[] args)
         {
-            GenerateNumber GN = new GenerateNumber();
-            GN.GetAnswerNumber();
+          //  GenerateNumber GN = new GenerateNumber();
+          //  GN.GetAnswerNumber();
 
-            InputNumber IN = new InputNumber();
-            IN.GetUserNum();
+           // InputNumber IN = new InputNumber();
+          //  IN.GetUserNum();
+
+            Judgment J = new Judgment();
+            int[] fakeAnswer = {1, 2, 3, 4};
+            int[] fakePlayer = {4, 3, 2, 1};
+            int[] result = J.CheckingScore(fakeAnswer, fakePlayer);
+
         }
     }
 }
