@@ -15,11 +15,11 @@
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\core\\judgment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|c:\\users\\\uCD5C\uB3D9\uD6C8\\onedrive\\\uBB38\uC11C\\github\\04-oop-console-project-dftyjk64-blip\\consoleprojectnumberbaseball\\core\\judgment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:core\\judgment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|c:\\users\\\uCD5C\uB3D9\uD6C8\\onedrive\\\uBB38\uC11C\\github\\04-oop-console-project-dftyjk64-blip\\consoleprojectnumberbaseball\\control\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\control\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:control\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T13:00:51.494Z",
               "EditorCaption": ""
@@ -57,7 +57,7 @@
               "RelativeDocumentMoniker": "Core\\GenerateNumber.cs",
               "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Core\\GenerateNumber.cs",
               "RelativeToolTip": "Core\\GenerateNumber.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwC8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T13:11:34.97Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "Control\\InputNumber.cs",
               "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Control\\InputNumber.cs*",
               "RelativeToolTip": "Control\\InputNumber.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T13:11:28.83Z",
               "EditorCaption": ""
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Core\\Judgment.cs",
               "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Core\\Judgment.cs",
               "RelativeToolTip": "Core\\Judgment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T13:11:20.52Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "RelativeToolTip": "Control\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T13:04:35.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T13:04:35.099Z"
             },
             {
               "$type": "Document",

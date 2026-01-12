@@ -24,9 +24,12 @@ namespace ConsoleProjectNumberBaseBall.Control
                     Console.WriteLine("다시 입력해주세요");
                     continue;
                 }
-                int.TryParse(input, out playerNum[0]); //TryParse로 정수로 변경
-                
-                
+                for (int i = 0; i < 4; i++)
+                {
+                    int.TryParse(input, out playerNum[i]); //TryParse로 정수로 변경 어케함?
+                                                           // 각자리 마다 바꿔줘야 함
+                }
+
             }
 
             return playerNum;
