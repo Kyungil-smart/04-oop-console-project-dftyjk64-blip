@@ -24,7 +24,7 @@ namespace ConsoleProjectNumberBaseBall.Core
                 int RanNum = RandomNumber.Next(0, 10); // 각 자리 숫자마다 0~9로 범위 정하기
                 bool sameNum = false;
 
-                Console.WriteLine($"{count + 1}번 숫자, 뽑힌 숫자{RanNum}"); // 디버깅 나중에 각주처리
+                /*Console.WriteLine($"{count + 1}번 숫자, 뽑힌 숫자{RanNum}"); // 디버깅 나중에 각주처리*/
                 for (int i = 0; i < count; i++)         // 배열을 차례로 숫자 넣기 시작
                 {
                     if (AnswerNumber[i] == RanNum)      // 숫자가 중복이면 true 반환
@@ -41,12 +41,12 @@ namespace ConsoleProjectNumberBaseBall.Core
                 }
             }
 
-            Console.Write("정답: ");                      // 디버깅 나중에 각주처리
+            /*Console.Write("정답: ");                      // 디버깅 나중에 각주처리
             foreach (int num in AnswerNumber) 
             {
                 Console.Write(num);
                 
-            }
+            }*/
             Console.WriteLine();
             return AnswerNumber;
 
