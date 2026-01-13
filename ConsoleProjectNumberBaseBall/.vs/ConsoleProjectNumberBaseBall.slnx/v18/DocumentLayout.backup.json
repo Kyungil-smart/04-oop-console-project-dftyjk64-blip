@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:control\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\core\\judgment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:core\\judgment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:core\\generatenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|c:\\users\\\uCD5C\uB3D9\uD6C8\\onedrive\\\uBB38\uC11C\\github\\04-oop-console-project-dftyjk64-blip\\consoleprojectnumberbaseball\\title\\main title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\control\\inputnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:control\\inputnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\title\\main title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:title\\main title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\control\\inputnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FEBBDFD-6ED8-4316-821A-72734A200265}|ConsoleProjectNumberBaseBall.csproj|solutionrelative:control\\inputnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "InputNumber.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Control\\InputNumber.cs",
               "RelativeDocumentMoniker": "Control\\InputNumber.cs",
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Main title.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Title\\Main title.cs",
               "RelativeDocumentMoniker": "Title\\Main title.cs",
               "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Title\\Main title.cs",
               "RelativeToolTip": "Title\\Main title.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T03:01:22.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GenerateNumber.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Core\\GenerateNumber.cs",
               "RelativeDocumentMoniker": "Core\\GenerateNumber.cs",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Judgment.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Core\\Judgment.cs",
               "RelativeDocumentMoniker": "Core\\Judgment.cs",
@@ -94,13 +94,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T13:00:51.494Z",
               "EditorCaption": ""
@@ -111,16 +111,16 @@
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Control\\GameManager.cs",
               "RelativeDocumentMoniker": "Control\\GameManager.cs",
-              "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Control\\GameManager.cs",
-              "RelativeToolTip": "Control\\GameManager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Control\\GameManager.cs*",
+              "RelativeToolTip": "Control\\GameManager.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T13:04:35.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TextExtensions.cs",
               "DocumentMoniker": "C:\\Users\\\uCD5C\uB3D9\uD6C8\\OneDrive\\\uBB38\uC11C\\GitHub\\04-oop-console-project-dftyjk64-blip\\ConsoleProjectNumberBaseBall\\Utils\\TextExtensions.cs",
               "RelativeDocumentMoniker": "Utils\\TextExtensions.cs",
@@ -128,8 +128,7 @@
               "RelativeToolTip": "Utils\\TextExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T18:45:14.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-12T18:45:14.802Z"
             }
           ]
         }

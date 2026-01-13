@@ -26,7 +26,7 @@ namespace ConsoleProjectNumberBaseBall.Control
 
 
             for (int inning = 1; inning <= 9; inning++)
-            {
+            {Console.Clear();
                 Console.WriteLine("--------------------------\n");
                 $"{inning} 이닝 시작\n".Print(ConsoleColor.Green);
                 Console.WriteLine();
@@ -39,7 +39,7 @@ namespace ConsoleProjectNumberBaseBall.Control
                     int[] palyer = IN.GetUserNum();
                     int[] result = j.CheckingScore(answer, palyer);
                     Console.WriteLine();
-
+                    Console.ReadKey(true);
                     if (result[0] == 4)
                     {
 
@@ -48,6 +48,7 @@ namespace ConsoleProjectNumberBaseBall.Control
                         "정답은 ".Print(ConsoleColor.Green);
                         Console.ForegroundColor = ConsoleColor.Green;
                         foreach (int i in answer) Console.Write(i);
+                        Console.ResetColor();
                         "입니다.\n".Print(ConsoleColor.Green);
                         Console.WriteLine();
                         Console.WriteLine("--------------------------\n");
