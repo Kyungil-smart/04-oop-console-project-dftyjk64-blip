@@ -1,4 +1,5 @@
 ﻿using ConsoleProjectNumberBaseBall.Control;
+using ConsoleProjectNumberBaseBall.Utils;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -38,19 +39,15 @@ namespace ConsoleProjectNumberBaseBall.Core
             }
             if (strike == 0 && ball == 0)                 // 스트라이크와 볼이 0일때 다음 로직 수행
             {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("아웃!");               // 아웃 문구 출력
-                Console.ResetColor();
+                "아웃!\n".Print(ConsoleColor.Red);             // 아웃 문구 출력
+                Console.WriteLine();
                 Console.WriteLine("--------------------------");
             }
             else
             {
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.Write($"{strike} 스트라이크\t");    // 아웃이 아니면 스트라이크와 볼의 개수 출력
-                Console.ResetColor();
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.Write($"{ball} 볼\n");
-                Console.ResetColor();
+                $"{strike} 스트라이크\t".Print(ConsoleColor.DarkYellow);    // 아웃이 아니면 스트라이크와 볼의 개수 출력
+                $"{ball} 볼\n".Print(ConsoleColor.DarkGreen);
+                Console.WriteLine();
                 Console.WriteLine("--------------------------");
             }
             return new int[] { strike, ball };
