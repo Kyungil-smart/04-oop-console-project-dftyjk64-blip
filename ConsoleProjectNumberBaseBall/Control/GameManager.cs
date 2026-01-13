@@ -26,7 +26,7 @@ namespace ConsoleProjectNumberBaseBall.Control
 
 
             for (int inning = 1; inning <= 9; inning++)
-            {Console.Clear();
+            {
                 Console.WriteLine("--------------------------\n");
                 $"{inning} 이닝 시작\n".Print(ConsoleColor.Green);
                 Console.WriteLine();
@@ -39,10 +39,10 @@ namespace ConsoleProjectNumberBaseBall.Control
                     int[] palyer = IN.GetUserNum();
                     int[] result = j.CheckingScore(answer, palyer);
                     Console.WriteLine();
-                    Console.ReadKey(true);
+
                     if (result[0] == 4)
                     {
-
+                        Console.WriteLine("--------------------------\n");
                         "축하합니다. 승리했습니다.\n".Print(ConsoleColor.Green);
                         Console.WriteLine();
                         "정답은 ".Print(ConsoleColor.Green);
@@ -61,6 +61,7 @@ namespace ConsoleProjectNumberBaseBall.Control
                     {
                         "타자 아웃!\n".Print(ConsoleColor.Red);
                         Console.WriteLine();
+                        Console.WriteLine("--------------------------\n");
                     }
 
                     else if (inning != 9 && outCount == 2)
@@ -69,7 +70,7 @@ namespace ConsoleProjectNumberBaseBall.Control
                         Console.WriteLine();
                         Console.WriteLine();
                     }
-                    
+
                     else
                     {
                         "경기 종료!\t".Print(ConsoleColor.DarkRed);

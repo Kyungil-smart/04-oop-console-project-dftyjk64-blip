@@ -48,7 +48,6 @@ namespace ConsoleProjectNumberBaseBall.Core
                 $"{strike} 스트라이크\t".Print(ConsoleColor.DarkYellow);    // 아웃이 아니면 스트라이크와 볼의 개수 출력
                 $"{ball} 볼\n".Print(ConsoleColor.DarkGreen);
                 Console.WriteLine();
-                Console.WriteLine("--------------------------");
             }
             return new int[] { strike, ball };
         }
