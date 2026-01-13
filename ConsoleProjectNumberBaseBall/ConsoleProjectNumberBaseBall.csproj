@@ -49,6 +49,7 @@
     <Compile Include="Core\Judgment.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Title\Main title.cs" />
     <Compile Include="Utils\TextExtensions.cs" />
   </ItemGroup>
   <ItemGroup>

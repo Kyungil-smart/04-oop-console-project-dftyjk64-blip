@@ -1,5 +1,6 @@
 ﻿using ConsoleProjectNumberBaseBall.Core;
 using ConsoleProjectNumberBaseBall.Utils;
+using ConsoleProjectNumberBaseBall.Title;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,9 @@ namespace ConsoleProjectNumberBaseBall.Control
             GenerateNumber gn = new GenerateNumber();
             InputNumber IN = new InputNumber();
             Judgment j = new Judgment();
+            Main_title mt = new Main_title();
+
+            mt.Show();
 
             int[] answer = gn.GetAnswerNumber();
 
@@ -47,6 +51,7 @@ namespace ConsoleProjectNumberBaseBall.Control
                         "입니다.\n".Print(ConsoleColor.Green);
                         Console.WriteLine();
                         Console.WriteLine("--------------------------\n");
+
 
                         return;
                     }
